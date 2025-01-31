@@ -6,12 +6,12 @@
 🔗 **LinkedIn**: [linkedin.com/in/vijay-guggari](https://www.linkedin.com/in/vijay-guggari)  
 🌐 **Portfolio**: [vijayguggari.vercel.app](https://vijayguggari.vercel.app/)  
 
----
+
 
 ## 🎯 **Objective**  
 🎓 B.Tech graduate in Computer Science with strong analytical and communication skills, seeking to contribute. Eager to apply technical expertise, process improvement knowledge, and collaborative abilities to solve global client business challenges and drive impactful solutions.
 
----
+
 
 ## 🛠 **Skills**  
 
@@ -33,7 +33,7 @@
 ### **Soft Skills**  
 Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication, Collaboration  
 
----
+
 
 ## 📊 **Dashboards**  
 ### **Dynamic Visitor Counter**  
@@ -56,7 +56,7 @@ Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication
 🏆 Earned badges based on contributions, commits, and more!  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=vijaykmr18&theme=radical)  
 
----
+
 
 ## 🎓 **Education**  
 
@@ -70,7 +70,7 @@ Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication
 📅 Aug 2019 - Aug 2022  
 💯 **Percentage: 87.54**  
 
----
+
 
 ## 💼 **Experience**  
 
@@ -93,7 +93,7 @@ Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication
 - 🧩 Collaborated on designing scalable and responsive UI components.  
 - ⚡ Deployed modern web development practices to improve system performance.  
 
----
+
 
 ## 🏆 **Certifications**  
 - 🎯 **DevOps, Python Master Class** – Microdegree  
@@ -101,7 +101,7 @@ Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication
 - ☁️ **Google Cloud Skills Boost**  
 - 🤖 **Simplilearn Certification in AI and Python Programming**  
 
----
+
 
 ## 🚀 **Projects**  
 
@@ -111,14 +111,14 @@ Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication
 ### **Healthcare Fraud Detection**  
 🏥 Spearheaded the development of an AI-driven system targeting medical billing fraud detection, leveraging data analysis techniques to identify inconsistencies and prevent fraudulent practices.  
 
----
+
 
 ## 🌟 **Hobbies & Interests**  
 - 🏸 **Competitive Sports**: Kabaddi and Swimming.  
 - 🧠 **Research and Model Training**  
 - 📚 **Reading and Exploring Emerging Technologies**  
 
----
+
 
 ## 🙏 **Thank You!**  
 🙏 Thank you for visiting my GitHub profile. Let’s connect and build something amazing together! 🚀  

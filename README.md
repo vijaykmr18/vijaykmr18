@@ -1,8 +1,7 @@
 # 🚀 **Vijaykumar Guggari**  
 **💻 Computer Science Graduate | 🌐 Full-Stack Developer | 🤖 AI/ML Enthusiast**  
 
-📧 **Email**: [guggarivijay016@gmail.com](mailto:guggarivijay016@gmail.com)  
-📞 **Phone**: +91-9740522534  
+📧 **Email**: [guggarivijay016@gmail.com](mailto:guggarivijay016@gmail.com)    
 🔗 **LinkedIn**: [linkedin.com/in/vijay-guggari](https://www.linkedin.com/in/vijay-guggari)  
 🌐 **Portfolio**: [vijayguggari.vercel.app](https://vijayguggari.vercel.app/)  
 

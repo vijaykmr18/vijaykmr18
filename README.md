@@ -3,7 +3,7 @@
 
 📧 **Email**: [guggarivijay016@gmail.com](mailto:guggarivijay016@gmail.com)    
 🔗 **LinkedIn**: [linkedin.com/in/vijay-guggari](https://www.linkedin.com/in/vijay-guggari)  
-🌐 **Portfolio**: [vijayguggari.vercel.app](https://vijayguggari.vercel.app/)  
+🌐 **Portfolio**: [vijayguggari.vercel.app]([https://vijayguggari.vercel.app/](https://who-is-me-vijaykmr18s-projects.vercel.app/))  
 
 
 

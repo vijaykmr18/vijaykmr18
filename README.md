@@ -132,22 +132,6 @@ class Vijaykumar:
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaykmr18&show_icons=true&theme=dark&title_color=E05C00&icon_color=E05C00&text_color=ffffff&bg_color=0d0d0d&border_color=E05C00&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykmr18&layout=compact&theme=dark&title_color=E05C00&text_color=ffffff&bg_color=0d0d0d&border_color=E05C00&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vijaykmr18&theme=dark&ring=E05C00&fire=E05C00&currStreakLabel=E05C00&background=0D0D0D&border=E05C00)](https://git.io/streak-stats)
-
-</div>
 
 ---
 

@@ -1,125 +1,198 @@
-# 🚀 **Vijaykumar Guggari**  
-**💻 Computer Science Graduate | 🌐 Full-Stack Developer | 🤖 AI/ML Enthusiast**  
+<div align="center">
 
-📧 **Email**: [guggarivijay016@gmail.com](mailto:guggarivijay016@gmail.com)    
-🔗 **LinkedIn**: [linkedin.com/in/vijay-guggari](https://www.linkedin.com/in/vijay-guggari)  
-🌐 **Portfolio**: [vijayguggari.vercel.app](https://who-is-me-vijaykmr18s-projects.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E05C00&height=200&section=header&text=Vijaykumar%20Guggari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&descColor=ffcc99" width="100%"/>
 
+</div>
 
+<div align="center">
 
-## 🎯 **Objective**  
-🎓 B.Tech graduate in Computer Science with strong analytical and communication skills, seeking to contribute. Eager to apply technical expertise, process improvement knowledge, and collaborative abilities to solve global client business challenges and drive impactful solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E05C00&center=true&vCenter=true&width=600&lines=Building+backends+that+scale+%F0%9F%9A%80;Shipping+AI+systems+that+work+%F0%9F%A4%96;Python+%7C+Flask+%7C+ML+%7C+NLP+Engineer;Open+to+Full-Time+Roles+%F0%9F%91%80)](https://git.io/typing-svg)
 
+</div>
 
+---
 
-## 🛠 **Skills**  
+## 👨‍💻 About Me
 
-### **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+```python
+class Vijaykumar:
+    name       = "Vijaykumar Guggari"
+    location   = "Bengaluru, India 🇮🇳"
+    role       = "Software Engineer & AI/ML Enthusiast"
+    education  = "B.Tech CSE — Presidency University (2022–2025)"
 
-### **Frontend Technologies**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+    skills     = ["Python", "Flask", "MongoDB", "REST APIs",
+                  "Scikit-Learn", "NLTK", "spaCy", "Docker", "AWS"]
 
-### **Database**  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+    currently  = "Actively looking for full-time SWE / ML roles"
+    open_to    = ["Remote", "On-site", "Relocation"]
 
-### **UI/UX Design**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+    def say_hi(self):
+        print("Let's build something that actually matters. 🔥")
+```
 
-### **Version Control System**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+---
 
-### **Soft Skills**  
-Critical Thinking, Data-Driven Decision Making, Project Ownership, Communication, Collaboration  
+## 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-## 📊 **Dashboards**  
-### **Dynamic Visitor Counter**  
-👀 Track how many people have visited this profile!  
-![Visitor Count](https://profile-counter.glitch.me/VijaykumarGuggari/count.svg)  
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **GitHub Stats Card (Real-Time)**  
-📊 Check out my **real-time GitHub activity**!  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaykmr18&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **Contribution Streak**  
-🔥 See my **contribution streak** over time!  
-![Streak Stats](https://streak-stats.demolab.com/?user=vijaykmr18&theme=radical)  
+---
 
-### **Top Languages**  
-📚 See the programming languages I’ve been working with recently!  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykmr18&layout=compact&theme=radical)  
+## 🚀 Featured Projects
 
-### **GitHub Trophies**  
-🏆 Earned badges based on contributions, commits, and more!  
-![Trophies](https://github-profile-trophy.vercel.app/?username=vijaykmr18&theme=radical)  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 AI-Powered Stock Portfolio Tracker</h3>
+      <p>Real-time portfolio analytics platform consuming 3 live market APIs with server-side caching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <ul>
+        <li>⚡ <b>65%</b> reduction in redundant API calls</li>
+        <li>🚀 <b>50%</b> faster dashboard load time</li>
+        <li>📊 <b>&lt;150ms</b> query response time</li>
+        <li>📉 1,000+ data points per render cycle</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 NLP Conversational AI Chatbot</h3>
+      <p>Production-grade chatbot: tokenisation → TF-IDF → cosine-similarity intent matching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+      <ul>
+        <li>✅ <b>40%</b> fewer unanswered queries vs baseline</li>
+        <li>⚡ <b>&lt;300ms</b> P99 latency</li>
+        <li>🔗 <b>500+</b> concurrent sessions handled</li>
+        <li>📈 <b>30%</b> uplift in user engagement</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 ML Crop Harvest Advisory System</h3>
+      <p>End-to-end ML pipeline with real-time weather feeds + CNN + GAN hybrid model.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+      <ul>
+        <li>🎯 <b>22%</b> accuracy boost over baseline</li>
+        <li>⚡ <b>&lt;200ms</b> inference per request</li>
+        <li>🌍 Scales to <b>10,000+</b> queries/day</li>
+        <li>💪 <b>28%</b> robustness gain on imbalanced data</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☀️ Solar Power Output Forecasting</h3>
+      <p>Production ML pipeline for forecasting solar energy output — built during internship at Edunet Foundation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+      <ul>
+        <li>📉 <b>35%</b> reduction in training noise</li>
+        <li>📐 <b>~18%</b> RMSE improvement via cross-validation</li>
+        <li>📊 Seaborn dashboards for non-technical stakeholders</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+---
 
+## 📊 GitHub Stats
 
-## 🎓 **Education**  
+<div align="center">
 
-### **B.Tech in Computer Science & Engineering**  
-🎓 *Presidency University, Bengaluru*  
-📅 Dec 2022 - June 2025  
-💯 **Percentage: 75.54**  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijaykmr18&show_icons=true&theme=dark&title_color=E05C00&icon_color=E05C00&text_color=ffffff&bg_color=0d0d0d&border_color=E05C00&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykmr18&layout=compact&theme=dark&title_color=E05C00&text_color=ffffff&bg_color=0d0d0d&border_color=E05C00&langs_count=8"/>
 
-### **Diploma in Engineering (Class XII)**  
-📚 *KLE CIM Polytechnic, Hubli*  
-📅 Aug 2019 - Aug 2022  
-💯 **Percentage: 87.54**  
+</div>
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=vijaykmr18&theme=dark&ring=E05C00&fire=E05C00&currStreakLabel=E05C00&background=0D0D0D&border=E05C00)](https://git.io/streak-stats)
 
-## 💼 **Experience**  
+</div>
 
-### **IT Manager | Edutest (Private Vendor)**  
-📅 *(Aug 2024 - Present)*  
-- 🔧 Led server setup, network configuration, and IT infrastructure mapping.  
-- 🔒 Managed IT operations, security, and system optimization.  
-- 🤝 Oversaw vendor coordination and technology implementation.  
-- 🛠️ Provided technical support and streamlined workflows.  
+---
 
-### **Embedded Systems Intern | Emertxe Information Technologies**  
-📅 *(Jan 2025 - Present)*  
-- 🌐 Working on Embedded Systems and Internet of Things (IoT) solutions.  
-- 💻 Gaining hands-on experience in firmware development and system optimization.  
-- 🚀 Collaborating on innovative projects to design and deploy embedded systems for real-world applications.  
+## 💼 Experience Snapshot
 
-### **Web Developer Intern | Hirexbot**  
-📅 *(July 2024 - Dec 2024)*  
-- 🎨 Designed and optimized web applications to enhance user experience and streamline workflows.  
-- 🧩 Collaborated on designing scalable and responsive UI components.  
-- ⚡ Deployed modern web development practices to improve system performance.  
+| Period | Role | Company | Impact |
+|--------|------|---------|--------|
+| Jan 2025 – May 2025 | AI & Data Analytics Intern | Edunet Foundation, Bengaluru | 35% noise reduction · 18% RMSE improvement |
 
+---
 
+## 🎓 Education & Certifications
 
-## 🏆 **Certifications**  
-- 🎯 **DevOps, Python Master Class** – Microdegree  
-- 🌟 **HackerRank Python Advance Programming with DSA**  
-- ☁️ **Google Cloud Skills Boost**  
-- 🤖 **Simplilearn Certification in AI and Python Programming**  
+🎓 **B.Tech, Computer Science & Engineering** — Presidency University, Bengaluru *(2022–2025)*
+> Specialisation: Machine Learning · Deep Learning · NLP
 
+🎓 **Diploma, Mechanical Engineering** — CIM Munavalli Polytechnic, Hubli *(2022 · 87% Distinction)*
 
+**Certifications:**
+- 🐍 Python Masterclass (Micro Degree)
+- ☁️ Cloud Computing Essentials — Google Cloud Skills Boost
+- 🤖 Machine Learning Algorithms: Supervised & Unsupervised
+- 🌐 Introduction to Cloud Computing
+- ⚙️ Terraform & Ansible Basics
+- 📊 Power BI for Beginners — Data Visualization Techniques
 
-## 🚀 **Projects**  
+---
 
-### **Crop Management System**  
-🌱 Designed a machine-learning-powered system for cash crop farmers to predict optimal harvesting time, reducing losses due to climate factors.  
+## 📫 Let's Connect
 
-### **Healthcare Fraud Detection**  
-🏥 Spearheaded the development of an AI-driven system targeting medical billing fraud detection, leveraging data analysis techniques to identify inconsistencies and prevent fraudulent practices.  
+<div align="center">
 
+[![Email](https://img.shields.io/badge/Email-guggarivijay016%40gmail.com-E05C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guggarivijay016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaykumar--guggari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaykumar-guggari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-E05C00?style=for-the-badge&logo=vercel&logoColor=white)](https://vijaykmr18.vercel.app)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_97405_22534-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919740522534)
 
+</div>
 
-## 🌟 **Hobbies & Interests**  
-- 🏸 **Competitive Sports**: Kabaddi and Swimming.  
-- 🧠 **Research and Model Training**  
-- 📚 **Reading and Exploring Emerging Technologies**  
+---
 
+<div align="center">
 
+**Open to Full-Time Roles · Remote-Friendly · Open to Relocation · Available Immediately**
 
-## 🙏 **Thank You!**  
-🙏 Thank you for visiting my GitHub profile. Let’s connect and build something amazing together! 🚀  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E05C00&height=100&section=footer" width="100%"/>
 
-**Happy Coding!** 💻✨  
+</div>

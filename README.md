@@ -167,7 +167,7 @@ class Vijaykumar:
 [![Email](https://img.shields.io/badge/Email-guggarivijay016%40gmail.com-E05C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guggarivijay016@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijaykumar--guggari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-guggari/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-E05C00?style=for-the-badge&logo=vercel&logoColor=white)](https://vijay-guggari.vercel.app/)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_97405_22534-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919740522534)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_97405_22534-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919740522534)
 
 </div>
 

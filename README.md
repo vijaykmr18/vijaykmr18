@@ -143,20 +143,23 @@ class Vijaykumar:
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-🎓 **B.Tech, Computer Science & Engineering** — Presidency University, Bengaluru *(2022–2025)*
-> Specialisation: Machine Learning · Deep Learning · NLP
+* **B.Tech, Computer Science & Engineering** — Presidency University, Bengaluru (2022–2025)
+  * *Specialization:* Machine Learning · Deep Learning · NLP
+* **Diploma, Mechanical Engineering** — CIM Munavalli Polytechnic, Hubli (2022)
+  * *Result:* 87% Distinction
 
-🎓 **Diploma, Mechanical Engineering** — CIM Munavalli Polytechnic, Hubli *(2022 · 87% Distinction)*
+---
 
-**Certifications:**
-- 🐍 Python Masterclass (Micro Degree)
-- ☁️ Cloud Computing Essentials — Google Cloud Skills Boost
-- 🤖 Machine Learning Algorithms: Supervised & Unsupervised
-- 🌐 Introduction to Cloud Computing
-- ⚙️ Terraform & Ansible Basics
-- 📊 Power BI for Beginners — Data Visualization Techniques
+## 📜 Certifications
+
+* 🐍 **Python Masterclass** (Micro Degree)
+* ☁️ **Cloud Computing Essentials** — Google Cloud Skills Boost
+* 🤖 **Machine Learning Algorithms**: Supervised & Unsupervised
+* 🌐 **Introduction to Cloud Computing**
+* ⚙️ **Terraform & Ansible Basics**
+* 📊 **Power BI for Beginners** — Data Visualization Techniques
 
 ---
 
